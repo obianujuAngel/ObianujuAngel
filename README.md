@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Nnaji Evangel ,a dynamic and multifaceted Data Analyst . I am well versed in Excel, Power BI, SQL, Tableau, Python. I love to create seamless experiences for organizations and institutions in need I make sure to find time to engage with like minds and communities.I aspire to be an influence to people through data regardless of the age, and inspire people to make data-driven decisions in their respective careers and life ,cause data is life.
+I am Nnaji Evangel ,a dynamic and multifaceted Data Analyst . I am well versed in Excel, Power BI, SQL, Tableau, Python. I love to create seamless experiences for organizations and institutions in need. I always find time to engage with like minds and communities.I aspire to be an influence to people through data regardless of the age, and inspire people to make data-driven decisions in their respective careers and life ,cause data is life.
 
 - 🔭 I’m currently working on my Machine learning skill ,building projects in data analysis with essential tools.
 - 🌱 I’m currently learning everything that would help improve my career.
